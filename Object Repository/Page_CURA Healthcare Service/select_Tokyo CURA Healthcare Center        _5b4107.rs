@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Tokyo CURA Healthcare Center        _5b4107</name>
+   <tag></tag>
+   <elementGuidId>9ef086dc-a2f4-405e-bdb8-771d29116469</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#combo_facility</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='combo_facility']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>a498b660-57a0-4705-8331-00d3a16d7853</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>combo_facility</value>
+      <webElementGuid>d28ea31e-17f3-4385-bb32-e804daf85035</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>facility</value>
+      <webElementGuid>14393f3e-3503-4cab-902b-3988ae072932</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>4f526c30-bb25-4c9a-a1ed-471aac6a5556</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Tokyo CURA Healthcare Center
+                            Hongkong CURA Healthcare Center
+                            Seoul CURA Healthcare Center
+                        </value>
+      <webElementGuid>be6d0d47-90a6-45cd-9f5a-5c0a3002d32a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;combo_facility&quot;)</value>
+      <webElementGuid>9ebe8d6d-9b7f-4181-a92c-9a94cf8692ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>4cf39b3e-7e7b-494b-9d02-248e4daa7360</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>combo_facility</value>
+      <webElementGuid>36fa7758-e17f-4410-835b-5a7ac62cece7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>facility</value>
+      <webElementGuid>86716e9b-0f46-4971-8702-02a62eb1d485</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>20dca5fb-fe85-4e71-bd56-2c2595e440b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Tokyo CURA Healthcare Center
+                            Hongkong CURA Healthcare Center
+                            Seoul CURA Healthcare Center
+                        </value>
+      <webElementGuid>cfeace21-2e26-45c0-9dc0-1b91c181a9ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;combo_facility&quot;)</value>
+      <webElementGuid>ffc791a8-b553-43ba-8ff0-09b7a6e776d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>0ac22127-37c8-4f78-bd18-f6328c417d38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>combo_facility</value>
+      <webElementGuid>1cf2bd7d-b9aa-414f-987f-5f6719b346a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>facility</value>
+      <webElementGuid>8da04635-029c-411e-bfd9-e0cdbc6fc11a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>8f810f47-aef6-4cd1-933a-89be7ce30537</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                            Tokyo CURA Healthcare Center
+                            Hongkong CURA Healthcare Center
+                            Seoul CURA Healthcare Center
+                        </value>
+      <webElementGuid>65d2e81d-45d6-4fd0-8944-635be35b5ce1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;combo_facility&quot;)</value>
+      <webElementGuid>a0fb7b92-866c-4185-a315-9e75738ea2c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='combo_facility']</value>
+      <webElementGuid>4e5e7e08-8c78-4259-bb60-eb9c6f68a32e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='appointment']/div/div/form/div/div/select</value>
+      <webElementGuid>45cc999e-0b52-44d9-852b-cfd70ee368cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facility'])[1]/following::select[1]</value>
+      <webElementGuid>c714ea72-1972-45cd-b490-14460fbdde65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make Appointment'])[2]/following::select[1]</value>
+      <webElementGuid>aec266ce-d936-4647-a343-5ce90aaae52f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Healthcare Program'])[1]/preceding::select[1]</value>
+      <webElementGuid>3b2bf977-daa0-4f6c-a62e-d5c2d539b2c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>ef18278d-9f62-4e75-aa5d-64578d2a048b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'combo_facility' and @name = 'facility' and (text() = '
+                            Tokyo CURA Healthcare Center
+                            Hongkong CURA Healthcare Center
+                            Seoul CURA Healthcare Center
+                        ' or . = '
+                            Tokyo CURA Healthcare Center
+                            Hongkong CURA Healthcare Center
+                            Seoul CURA Healthcare Center
+                        ')]</value>
+      <webElementGuid>888a0a79-2220-4273-8bf1-19e607cb35aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
